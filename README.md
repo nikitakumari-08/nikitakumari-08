@@ -1,52 +1,52 @@
-
 <!-- 🚀 Welcome Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+there!+I'm+Nikita+Kumari+👋;ECE+Student+@+UCET+Hazaribagh;Tech+Explorer+%7C+Web+Developer+%7C+App+Learner;Cloud+Enthusiast+%7C+Lifelong+Learner+☁️;Let’s+Build+Something+Incredible+Together!+🚀" alt="Typing SVG" />
 </p>
 
 ---
+
 ## 👋 About Me
 
+Hello! I'm **Nikita Kumari**, an enthusiastic and committed **Electronics & Communication Engineering (ECE)** student from **UCET Hazaribagh**, India. I’m passionate about the intersection of **technology, innovation, and problem-solving**.
 
-Hello! I'm **Nikita Kumari**, an enthusiastic and committed **Electronics & Communication Engineering (ECE)** student from **UCET Hazaribagh**, India. I’m deeply passionate about the intersection of **technology, innovation, and problem-solving**.
-
-My journey into tech began with a curiosity to understand how things work behind the scenes. Since then, I’ve been actively diving into programming, web development, and exploring the vast world of software engineering. I love building projects that solve real-world problems and push me to learn something new every day.
+My journey into tech began with a curiosity to understand how things work behind the scenes. Since then, I’ve dived into programming, web development, and software engineering. I enjoy building real-world projects that challenge me and help me grow every day.
 
 > 💬 _“I believe in creating impact through code, collaboration, and continuous learning.”_
 
 ---
 
-## 🎯 My Mission 
+## 🎯 Mission
 
-- 🔍 Explore and master core programming and development concepts  
-- 🚀 Build practical, scalable, and innovative software solutions  
-- 🤝 Collaborate with like-minded individuals to create open-source and real-world projects  
-- 🌐 Share knowledge, learn from others, and grow together as a global tech community  
+- 🔍 Master core programming and software development principles  
+- 🚀 Build scalable and practical solutions to real-world problems  
+- 🤝 Collaborate on open-source and team-based projects  
+- 🌐 Learn, share, and grow as part of the global tech community  
 
 ---
+
 ## 🚧 Current Focus
 
-- 📘 **Java & Data Structures** – Strengthening my foundation in object-oriented design and algorithmic problem-solving  
-- 🌍 **Frontend Development** – Creating responsive, accessible, and user-centric interfaces using HTML, CSS & JavaScript  
-- 📱 **Mobile App Development** – Learning Flutter and Android Studio to build intuitive cross-platform apps  
-- ☁️ **Cloud Computing** – Gaining a working understanding of AWS, GCP, and cloud-based deployment  
-- 🎯 **Competitive Programming** – Solving DSA problems regularly to sharpen my logic and coding skills  
-- 👥 **Hackathons & Open Source** – Participating in team-based challenges and real collaboration projects  
+- 📘 **Java & Data Structures** – OOP design and algorithmic problem-solving  
+- 🌍 **Frontend Development** – Responsive, accessible UI using HTML, CSS & JS  
+- 📱 **Mobile App Development** – Learning Flutter and Android Studio  
+- ☁️ **Cloud Computing** – Gaining exposure to AWS, GCP, and deployment  
+- 🎯 **Competitive Programming** – Regular DSA practice  
+- 👥 **Hackathons & Open Source** – Real collaboration and learning-by-doing  
 
 ---
 
 ## 🧠 Tech Stack & Tools
 
 ### 💻 Programming Languages
-- **C** – Procedural logic, syntax mastery, memory management  
-- **Java** – OOP principles, Java SE, DSA implementations  
-- **JavaScript** – DOM manipulation, interactivity .
+- **C** – Logic, syntax, memory management  
+- **Java** – Object-oriented programming, DSA  
+- **JavaScript** – DOM manipulation, interactivity  
 
 ### 🌐 Web Development
-- **HTML5** – Semantic structure, best practices  
-- **CSS3** – Layouts, media queries, animations  
-- **JavaScript** – Dynamic features 
-- **Basic Git & GitHub** – Version control and collaboration
+- **HTML5** – Semantic markup, structure  
+- **CSS3** – Layout, animations, responsive design  
+- **JavaScript** – Functionality and interactivity  
+- **Git & GitHub** – Version control and collaboration  
 
 ### 🧰 Tools & Platforms
 <p>
@@ -60,63 +60,64 @@ My journey into tech began with a curiosity to understand how things work behind
 
 ## 📚 Learning Resources
 
-- 🎯 [GeeksforGeeks DSA Self-Paced Course](https://practice.geeksforgeeks.org/courses/dsa-self-paced)  
-- 📘 [Java Programming - Udemy Course](https://www.udemy.com/)   
-- 🎓 YouTube channels like Apna College, CodeWithHarry, BroCode  
-- 📗 Books: “Let Us C”, “Java: The Complete Reference”, “Cracking the Coding Interview”  
+- 🎯 [DSA Self-Paced Course – GeeksforGeeks](https://practice.geeksforgeeks.org/courses/dsa-self-paced)  
+- 📘 [Java Programming – Udemy](https://www.udemy.com/)  
+- 🎓 YouTube: Apna College, CodeWithHarry, BroCode  
+- 📗 Books: _Let Us C_, _Java: The Complete Reference_, _Cracking the Coding Interview_  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikita-kumari08&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=nikita-kumari08&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitakumari-08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitakumari-08&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-kumari08&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitakumari-08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💻 [Java Learning Repository](https://github.com/nikitakumari-08)
-> A curated list of Java notes, syntax examples, DSA problems, and OOP concepts for consistent practice and revision.
+### 💻 [Java Learning Repository](https://github.com/nikitakumari-08/Java-Learning)
+> A curated repository of Java syntax, notes, OOP concepts, and DSA practice questions for mastering the fundamentals.
 
-### 🌐 [Web Dev Journey](https://github.com/nikitakumari-08)
-> Frontend mini-projects and component designs using HTML, CSS, and JavaScript. Hands-on practice with styling and layout building.
+### 🌐 [Web Dev Journey](https://github.com/nikitakumari-08/Web-Dev-Journey)
+> A collection of frontend mini-projects using HTML, CSS, and JavaScript, focused on real-world layout and design practice.
 
-### 📦 [Java Projects](https://github.com/nikita-kumari-08)
-> Real-world Java applications demonstrating practical use cases like student management, calculator, and mini-CLI tools.
+### 📦 [Java Projects](https://github.com/nikitakumari-08/Java-Projects)
+> Practical Java-based applications like student management systems, calculators, and CLI tools demonstrating core logic.
 
-➡️ **More coming soon!** Keep an eye on my GitHub for future updates.
+➡️ **More coming soon!** Stay tuned for future updates.
 
 ---
 
 ## 📌 Career Aspirations
 
-- 🌱 Master core development and software design principles  
-- 🌍 Work in domains like **Backend Engineering**, **Cloud Development**, or **Mobile App Engineering**  
-- 🛠 Build tools, platforms, or applications that empower others  
-- 💬 Grow into a tech leader who shares knowledge and uplifts communities  
+- 🌱 Master full-stack development & cloud infrastructure  
+- 🌍 Work in domains like **Backend Engineering**, **Mobile App Dev**, or **Cloud DevOps**  
+- 🛠 Build tools that simplify and empower digital workflows  
+- 💬 Become a mentor and community contributor in tech  
 
 ---
 
 ## 🤝 Let’s Connect
 
-Open to networking, mentorship, internships, and collaborative project opportunities.
+Open to networking, internships, collaborations, and mentorship opportunities!
 
 <p align="center">
   <a href="https://github.com/nikitakumari-08">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/nikita-kumari-828bb9368">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 ---
 
 <p align="center"><strong>“Build with passion. Learn with intention. Grow with curiosity.” 🚀</strong></p>
+
