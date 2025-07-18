@@ -41,3 +41,82 @@ My journey into tech began with a curiosity to understand how things work behind
 - **C** – Procedural logic, syntax mastery, memory management  
 - **Java** – OOP principles, Java SE, DSA implementations  
 - **JavaScript** – DOM manipulation, interactivity .
+
+### 🌐 Web Development
+- **HTML5** – Semantic structure, best practices  
+- **CSS3** – Layouts, media queries, animations  
+- **JavaScript** – Dynamic features 
+- **Basic Git & GitHub** – Version control and collaboration
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Learning Resources
+
+- 🎯 [GeeksforGeeks DSA Self-Paced Course](https://practice.geeksforgeeks.org/courses/dsa-self-paced)  
+- 📘 [Java Programming - Udemy Course](https://www.udemy.com/)   
+- 🎓 YouTube channels like Apna College, CodeWithHarry, BroCode  
+- 📗 Books: “Let Us C”, “Java: The Complete Reference”, “Cracking the Coding Interview”  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikita-kumari08&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=nikita-kumari08&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-kumari08&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💻 [Java Learning Repository](https://github.com/nikitakumari-08)
+> A curated list of Java notes, syntax examples, DSA problems, and OOP concepts for consistent practice and revision.
+
+### 🌐 [Web Dev Journey](https://github.com/nikitakumari-08)
+> Frontend mini-projects and component designs using HTML, CSS, and JavaScript. Hands-on practice with styling and layout building.
+
+### 📦 [Java Projects](https://github.com/nikita-kumari-08)
+> Real-world Java applications demonstrating practical use cases like student management, calculator, and mini-CLI tools.
+
+➡️ **More coming soon!** Keep an eye on my GitHub for future updates.
+
+---
+
+## 📌 Career Aspirations
+
+- 🌱 Master core development and software design principles  
+- 🌍 Work in domains like **Backend Engineering**, **Cloud Development**, or **Mobile App Engineering**  
+- 🛠 Build tools, platforms, or applications that empower others  
+- 💬 Grow into a tech leader who shares knowledge and uplifts communities  
+
+---
+
+## 🤝 Let’s Connect
+
+Open to networking, mentorship, internships, and collaborative project opportunities.
+
+<p align="center">
+  <a href="https://github.com/nikitakumari-08">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center"><strong>“Build with passion. Learn with intention. Grow with curiosity.” 🚀</strong></p>
